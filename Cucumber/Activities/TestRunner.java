@@ -7,7 +7,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 	    features = "src/test/resources/features",
 	    glue = {"stepDefinitions"},
-	    tags = "@activity1",
+	    tags = "@activity2",
 	    publish = true
 		)
 
